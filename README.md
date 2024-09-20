@@ -75,3 +75,4 @@ If you have any questions, don't hesitate to ask us on [Discord](https://discord
 ## License
 
 suyu is licensed under the free and open-source GPL-3.0-or-later license.
+# syu
